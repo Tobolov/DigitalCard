@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
 	<!--Custom Head-->
@@ -20,12 +20,19 @@
 
 <body class="preload">
 	<div id="testing" class="container">
-		<h2>Oh hi there!</h2>
-		Dear Baba. You are so cute!!! Look at this photo of you. [1]
+		<h2>Hi there!</h2>
+		Dear Reader. Thank you so much for checking out this page.
 		<br>
-		Oh my, to adorable! Thank you for being such an <b>AWESOME</b> and <i>COOL</i> baba.
-		<br><br><br><br><br><br><br><br>
-		- Your Grandson. Matthew Tobolov.
+		While I am yet to create a documentation (or fix the rediculous ammount of bugs), this system supports:<br>
+		• Bulletpoints<br>
+		• <b>Bold Text</b><br>
+		• <i>Italics</i><br>
+		• Images [1]<br>
+		• Text scrolling speed<br>
+		• And more!<br>
+		<br><br><br><br><br><br>
+		Thanks for checking this out! <br>
+		-Matthew Tobolov.
 	</div>
 	<div id="display" class="container">
 	</div>

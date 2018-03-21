@@ -29,7 +29,7 @@ var openbraceR = /^<(\w+)>/g;
 var closebraceR = /^<\/(\w+)>/g;
 var isimagedisplayR = /^\[(\d+)\]/g;
 
-var images = ["test.jpg"];
+var images = ["yellowface.png", "wow.jpg"];
 
 function animate() {
 	"use strict";
@@ -41,7 +41,7 @@ function animate() {
 	display.show().html("\t");
 	source.hide();
 
-	setTimeout(nextKey, 100);
+	setTimeout(nextKey, 50);
 }
 
 //Far from perfect. Many limitations
